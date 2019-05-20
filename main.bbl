@@ -1,0 +1,202 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{DKK{\etalchar{+}}16b}
+
+\bibitem[ABL13]{journals/corr/AwasthiBL13}
+Pranjal Awasthi, Maria-Florina Balcan, and Philip~M. Long, \emph{The power of
+  localization for efficiently learning linear separators with malicious
+  noise}, CoRR \textbf{abs/1307.8371} (2013).
+
+\bibitem[BBV08]{DBLP:conf/stoc/BalcanBV08}
+Maria{-}Florina Balcan, Avrim Blum, and Santosh Vempala, \emph{A discriminative
+  framework for clustering via similarity functions}, {STOC}, {ACM}, 2008,
+  pp.~671--680.
+
+\bibitem[Ber06]{bernholt2006robust}
+Thorsten Bernholt, \emph{Robust estimators are hard to compute}, Tech. report,
+  Technical Report/Universit{\"a}t Dortmund, SFB 475 Komplexit{\"a}tsreduktion
+  in Multivariaten Datenstrukturen, 2006.
+
+\bibitem[BJKK17]{DBLP:conf/nips/Bhatia0KK17}
+Kush Bhatia, Prateek Jain, Parameswaran Kamalaruban, and Purushottam Kar,
+  \emph{Consistent robust regression}, Advances in Neural Information
+  Processing Systems 30: Annual Conference on Neural Information Processing
+  Systems 2017, 4-9 December 2017, Long Beach, CA, {USA}, 2017, pp.~2107--2116.
+
+\bibitem[BWY14]{DBLP:journals/corr/BalakrishnanWY14}
+Sivaraman Balakrishnan, Martin~J. Wainwright, and Bin Yu, \emph{Statistical
+  guarantees for the {EM} algorithm: From population to sample-based analysis},
+  CoRR \textbf{abs/1408.2156} (2014).
+
+\bibitem[CSV17]{DBLP:conf/stoc/CharikarSV17}
+Moses Charikar, Jacob Steinhardt, and Gregory Valiant, \emph{Learning from
+  untrusted data}, {STOC}, {ACM}, 2017, pp.~47--60.
+
+\bibitem[CYC14]{DBLP:conf/colt/ChenYC14}
+Yudong Chen, Xinyang Yi, and Constantine Caramanis, \emph{A convex formulation
+  for mixed regression with two components: Minimax optimal rates}, Proceedings
+  of The 27th Conference on Learning Theory, {COLT} 2014, Barcelona, Spain,
+  June 13-15, 2014, 2014, pp.~560--604.
+
+\bibitem[DKK{\etalchar{+}}16a]{DBLP:conf/focs/DiakonikolasKK016}
+Ilias Diakonikolas, Gautam Kamath, Daniel~M. Kane, Jerry Li, Ankur Moitra, and
+  Alistair Stewart, \emph{Robust estimators in high dimensions without the
+  computational intractability}, {FOCS}, {IEEE} Computer Society, 2016,
+  pp.~655--664.
+
+\bibitem[DKK{\etalchar{+}}16b]{DBLP:journals/corr/DiakonikolasKKL16}
+Ilias Diakonikolas, Gautam Kamath, Daniel~M. Kane, Jerry~Zheng Li, Ankur
+  Moitra, and Alistair Stewart, \emph{Robust estimators in high dimensions
+  without the computational intractability}, CoRR \textbf{abs/1604.06443}
+  (2016).
+
+\bibitem[DKK{\etalchar{+}}17]{DBLP:journals/corr/DiakonikolasKK017a}
+Ilias Diakonikolas, Gautam Kamath, Daniel~M. Kane, Jerry Li, Ankur Moitra, and
+  Alistair Stewart, \emph{Robustly learning a gaussian: Getting optimal error,
+  efficiently}, CoRR \textbf{abs/1704.03866} (2017).
+
+\bibitem[DKK{\etalchar{+}}18]{journals/corr/abs-1803-02815}
+Ilias Diakonikolas, Gautam Kamath, Daniel~M. Kane, Jerry~Li 0001, Jacob
+  Steinhardt, and Alistair Stewart, \emph{Sever: A robust meta-algorithm for
+  stochastic optimization}, CoRR \textbf{abs/1803.02815} (2018).
+
+\bibitem[DKS17]{DBLP:journals/corr/DiakonikolasKS17}
+Ilias Diakonikolas, Daniel~M. Kane, and Alistair Stewart, \emph{Learning
+  geometric concepts with nasty noise}, CoRR \textbf{abs/1707.01242} (2017).
+
+\bibitem[DKS18]{DBLP:conf/stoc/DiakonikolasKS18}
+\bysame, \emph{List-decodable robust mean estimation and learning mixtures of
+  spherical gaussians}, Proceedings of the 50th Annual {ACM} {SIGACT} Symposium
+  on Theory of Computing, {STOC} 2018, Los Angeles, CA, USA, June 25-29, 2018,
+  2018, pp.~1047--1060.
+
+\bibitem[DKS19]{conf/soda/DiakonikolasKS19}
+Ilias Diakonikolas, Weihao Kong, and Alistair Stewart, \emph{Efficient
+  algorithms and lower bounds for robust linear regression}, Proceedings of the
+  Thirtieth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2019, San
+  Diego, California, USA, January 6-9, 2019 (Timothy~M. Chan, ed.), SIAM, 2019,
+  pp.~2745--2754.
+
+\bibitem[DV89]{MR1028403}
+Richard~D. De~Veaux, \emph{Mixtures of linear regressions}, Comput. Statist.
+  Data Anal. \textbf{8} (1989), no.~3, 227--245. \MR{1028403}
+
+\bibitem[Erd45]{ErdosLittlewoodOfford}
+P.~Erdös, \emph{On a lemma of littlewood and offord}, Bull. Amer. Math. Soc.
+  \textbf{51} (1945), no.~12, 898--902.
+
+\bibitem[FS10]{MR2757044}
+Susana Faria and Gilda Soromenho, \emph{Fitting mixtures of linear
+  regressions}, J. Stat. Comput. Simul. \textbf{80} (2010), no.~1-2, 201--225.
+  \MR{2757044}
+
+\bibitem[HL17]{HopkinsLi17}
+Sam~B. Hopkins and Jerry Li, \emph{Mixture models, robustness, and sum of
+  squares proofs}, 2017.
+
+\bibitem[HRRS11]{hampel2011robust}
+Frank~R Hampel, Elvezio~M Ronchetti, Peter~J Rousseeuw, and Werner~A Stahel,
+  \emph{Robust statistics: the approach based on influence functions}, vol.
+  114, John Wiley \& Sons, 2011.
+
+\bibitem[Hub11]{huber2011robust}
+Peter~J Huber, \emph{Robust statistics}, International Encyclopedia of
+  Statistical Science, Springer, 2011, pp.~1248--1251.
+
+\bibitem[JJ94]{doi:10.1162/neco.1994.6.2.181}
+Michael~I. Jordan and Robert~A. Jacobs, \emph{Hierarchical mixtures of experts
+  and the em algorithm}, Neural Computation \textbf{6} (1994), no.~2, 181--214.
+
+\bibitem[KKM18]{DBLP:conf/colt/KlivansKM18}
+Adam~R. Klivans, Pravesh~K. Kothari, and Raghu Meka, \emph{Efficient algorithms
+  for outlier-robust regression}, Conference On Learning Theory, {COLT} 2018,
+  Stockholm, Sweden, 6-9 July 2018., 2018, pp.~1420--1430.
+
+\bibitem[KLS09]{journals/jmlr/KlivansLS09}
+Adam~R. Klivans, Philip~M. Long, and Rocco~A. Servedio, \emph{Learning
+  halfspaces with malicious noise}, Journal of Machine Learning Research
+  \textbf{10} (2009), 2715--2740.
+
+\bibitem[KP19]{conf/soda/KarmalkarP19}
+Sushrut Karmalkar and Eric Price, \emph{Compressed sensing with adversarial
+  sparse noise via l1 regression}, SOSA@SODA (Jeremy~T. Fineman and Michael
+  Mitzenmacher, eds.), OASICS, vol.~69, Schloss Dagstuhl - Leibniz-Zentrum fuer
+  Informatik, 2019, pp.~19:1--19:19.
+
+\bibitem[KS17a]{KothariSteinhardt17}
+Pravesh~K. Kothari and Jacob Steinhardt, \emph{Better agnostic clustering via
+  relaxed tensor norms}, 2017.
+
+\bibitem[KS17b]{2017KS}
+Pravesh~K. Kothari and David Steurer, \emph{Outlier-robust moment-estimation
+  via sum-of-squares}, CoRR \textbf{abs/1711.11581} (2017).
+
+\bibitem[KS19]{KS19}
+\bysame, \emph{List-decodable mean estimation made simple}, Manuscript, 2019.
+
+\bibitem[LL18]{DBLP:conf/colt/LiL18}
+Yuanzhi Li and Yingyu Liang, \emph{Learning mixtures of linear regressions with
+  nearly optimal complexity}, Conference On Learning Theory, {COLT} 2018,
+  Stockholm, Sweden, 6-9 July 2018., 2018, pp.~1125--1144.
+
+\bibitem[LRV16]{DBLP:conf/focs/LaiRV16}
+Kevin~A. Lai, Anup~B. Rao, and Santosh Vempala, \emph{Agnostic estimation of
+  mean and covariance}, {FOCS}, {IEEE} Computer Society, 2016, pp.~665--674.
+
+\bibitem[{Lub}07]{2007math......1099L}
+Doron~S {Lubinsky}, \emph{{A Survey of Weighted Approximation for Exponential
+  Weights}}, arXiv Mathematics e-prints (2007), math/0701099.
+
+\bibitem[MMY06]{maronna2006robust}
+RARD Maronna, R~Douglas Martin, and Victor Yohai, \emph{Robust statistics},
+  John Wiley \& Sons, Chichester. ISBN, 2006.
+
+\bibitem[MV10]{DBLP:conf/focs/MoitraV10}
+Ankur Moitra and Gregory Valiant, \emph{Settling the polynomial learnability of
+  mixtures of gaussians}, {FOCS}, {IEEE} Computer Society, 2010, pp.~93--102.
+
+\bibitem[PSBR18]{journals/corr/abs-1802-06485}
+Adarsh Prasad, Arun~Sai Suggala, Sivaraman Balakrishnan, and Pradeep Ravikumar,
+  \emph{Robust estimation via robust gradient estimation}, CoRR
+  \textbf{abs/1802.06485} (2018).
+
+\bibitem[RV08]{MR2407948-Rudelson08}
+Mark Rudelson and Roman Vershynin, \emph{The {L}ittlewood-{O}fford problem and
+  invertibility of random matrices}, Adv. Math. \textbf{218} (2008), no.~2,
+  600--633. \MR{2407948}
+
+\bibitem[RY19]{RY19}
+Prasad Raghavendra and Morris Yau, \emph{List decodable learning via sum of
+  squares}, Manuscript, 2019.
+
+\bibitem[SJA16]{DBLP:conf/aistats/SedghiJA16}
+Hanie Sedghi, Majid Janzamin, and Anima Anandkumar, \emph{Provable tensor
+  methods for learning mixtures of generalized linear models}, {AISTATS},
+  {JMLR} Workshop and Conference Proceedings, vol.~51, JMLR.org, 2016,
+  pp.~1223--1231.
+
+\bibitem[Tuk75]{MR0426989}
+John~W. Tukey, \emph{Mathematics and the picturing of data}, 523--531.
+  \MR{0426989}
+
+\bibitem[TV12]{MR2965282-Tao12}
+Terence Tao and Van Vu, \emph{The {L}ittlewood-{O}fford problem in high
+  dimensions and a conjecture of {F}rankl and {F}\"uredi}, Combinatorica
+  \textbf{32} (2012), no.~3, 363--372. \MR{2965282}
+
+\bibitem[YCS13]{2013arXiv1310.3745Y}
+Xinyang {Yi}, Constantine {Caramanis}, and Sujay {Sanghavi}, \emph{{Alternating
+  Minimization for Mixed Linear Regression}}, arXiv e-prints (2013),
+  arXiv:1310.3745.
+
+\bibitem[ZJD16]{DBLP:conf/nips/Zhong0D16}
+Kai Zhong, Prateek Jain, and Inderjit~S. Dhillon, \emph{Mixed linear regression
+  with multiple components}, {NIPS}, 2016, pp.~2190--2198.
+
+\end{thebibliography}
